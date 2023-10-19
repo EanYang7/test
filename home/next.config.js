@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "index.html",
+        destination: "/index.html",
       },
       {
         source: "/:path*",
